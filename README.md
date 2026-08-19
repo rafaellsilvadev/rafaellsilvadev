@@ -40,4 +40,4 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![GitHub](https://img.shields.io/github/followers/rafaellsilvadev?label=follow&style=social)](https://github.com/rafaellsilvadev)
