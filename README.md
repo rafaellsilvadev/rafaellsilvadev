@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+![](https://komarev.com/ghpvc/?username=rafaellsilvadev&color=006bed)
 
 ## Sobre mim
 
@@ -28,12 +28,6 @@
 **Ferramentas de desenvolvimento**
 
 [![Ferramentas de desenvolvimento](https://skillicons.dev/icons?i=vscode,pycharm,figma)](https://github.com/rafaellsilvadev)
-
-<br/>
-
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
-</a>
 
 ## Onde me encontrar
 
