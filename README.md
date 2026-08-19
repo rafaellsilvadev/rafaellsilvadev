@@ -28,6 +28,7 @@
 **Ferramentas de desenvolvimento**
 
 [![Ferramentas de desenvolvimento](https://skillicons.dev/icons?i=vscode,pycharm,figma)](https://github.com/rafaellsilvadev)
+
 <br/>
 
 <a href="https://github.com/iuricode" title="Perfil do Iuri">
@@ -37,6 +38,8 @@
 ## Onde me encontrar
 
 [![Meu Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rafaellsilvadev/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/rafaellsilvadev)
+
 <br/>
 
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
