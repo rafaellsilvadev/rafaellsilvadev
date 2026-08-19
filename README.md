@@ -40,6 +40,7 @@
 [![Meu Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rafaellsilvadev/)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/rafaellsilvadev)
 [![dev.to](https://skillicons.dev/icons?i=devto)](https://dev.to/rafaellsilvadev)
+[![instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/rafaellgoncalves21)
 
 <br/>
 
