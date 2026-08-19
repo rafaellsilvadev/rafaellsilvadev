@@ -41,6 +41,8 @@
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/rafaellsilvadev)
 [![dev.to](https://skillicons.dev/icons?i=devto)](https://dev.to/rafaellsilvadev)
 [![instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/rafaellgoncalves21)
+[![gmail](https://skillicons.dev/icons?i=gmail)](mailto:rafaellsilva.dev@gmail.com)
+
 
 <br/>
 
